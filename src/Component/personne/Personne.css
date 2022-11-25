@@ -1,0 +1,67 @@
+.stat {
+    border: 1px solid gray;
+    padding: 20px;
+    margin: 10px;
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    font-family: "Josefin Sans", sans-serif;
+  }
+  
+  .info {
+    display: block;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+  }
+  
+  .crud {
+    list-style-type: none;
+  }
+  
+  .bt-m {
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: rgb(70, 247, 108);
+    color: white;
+    border-color: rgb(70, 247, 108);
+    font-family: "Josefin Sans", sans-serif;
+  }
+  
+  .bt-s {
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: rgb(255, 65, 65);
+    color: white;
+    border-color: rgb(255, 65, 65);
+    font-family: "Josefin Sans", sans-serif;
+  }
+  
+  .bt-v {
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: rgb(182, 188, 190);
+    color: white;
+    border-color: rgb(182, 188, 190);
+    font-family: "Josefin Sans", sans-serif;
+  }
+  
+  .p {
+    font-weight: 900;
+    display: inline;
+  }
+  
+  .i {
+    display: inline;
+    border-radius: 5px;
+    border-color: rgb(182, 188, 190);
+  }
+  
